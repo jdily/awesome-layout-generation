@@ -1,4 +1,4 @@
-# Awesome-layout-generation
+# Awesome-layout-generation [![Awesome]
 A curated list of graphic layout optimization and generation research papers, codes, and data.
 
 ## Table of Contents
