@@ -1,0 +1,8 @@
+@inproceedings{lee2020neural,
+  title={Neural design network: Graphic layout generation with constraints},
+  author={Lee, Hsin-Ying and Jiang, Lu and Essa, Irfan and Le, Phuong B and Gong, Haifeng and Yang, Ming-Hsuan and Yang, Weilong},
+  booktitle={European Conference on Computer Vision},
+  pages={491--506},
+  year={2020},
+  organization={Springer}
+}
