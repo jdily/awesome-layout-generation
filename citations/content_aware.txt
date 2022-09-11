@@ -1,0 +1,10 @@
+@article{zheng2019content,
+  title={Content-aware generative modeling of graphic design layouts},
+  author={Zheng, Xinru and Qiao, Xiaotian and Cao, Ying and Lau, Rynson WH},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={38},
+  number={4},
+  pages={1--15},
+  year={2019},
+  publisher={ACM New York, NY, USA}
+}
