@@ -3,6 +3,7 @@ A curated list of graphic layout optimization and generation research papers, co
 
 ## Table of Contents
 - [Papers](#papers)
+- [Datasets](#datasets)
 
 ## Papers
 - [BLT: Bidirectional Layout Transformer for Controllable Layout Generation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLja7XqYT7AhXKmlYBHdnIBYgQFnoECA8QAQ&url=https%3A%2F%2Fwww.ecva.net%2Fpapers%2Feccv_2022%2Fpapers_ECCV%2Fpapers%2F136770477.pdf&usg=AOvVaw0Jlknv5nwJoIATiEicO072), Kong et al., ECCV 2022 | [bibtex](./citations/blt_eccv22.txt) <!---Kong22eccv_blt-->
@@ -14,6 +15,8 @@ A curated list of graphic layout optimization and generation research papers, co
 - [Attribute-conditioned layout gan for automatic graphic design](https://arxiv.org/pdf/2009.05284), Li et al., TVCG 2020 | [bibtex](./citations/attribute.txt)<!---Li20attribute-->
 
 - [Content-aware Generative Modeling of Graphic Design Layouts](https://xtqiao.com/projects/content_aware_layout/paper.pdf), Zheng et al., SIGGRAPH 2019 | [bibtex](./citations/content_aware.txt)<!---Zheng19contet-->
+
+## Datasets
 
 
 ## License 
